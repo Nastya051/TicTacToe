@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title">Крестики-нолики</string>
+    <string name="first">Имя первого игрока</string>
+    <string name="second">Имя второго игрока</string>
+    <string name="start">Старт</string>
+    <string name="score">Счет:&#032;</string>
+</resources>
